@@ -7,9 +7,11 @@
   {{if hascode}} {{insert head_highlight.html }}   {{end}}
   <link rel="stylesheet" href="/css/franklin.css">
   <link rel="stylesheet" href="/css/basic.css">
+  <link rel="stylesheet" href="/css/julialangja.css">
   <link rel="icon" href="/assets/favicon.png">
   {{isdef title}} <title>{{fill title}}</title>  {{end}}
 </head>
 <body>
+  {{ispage index}}{{insert title.html}}{{end}}
 
 <!-- Content appended here -->
