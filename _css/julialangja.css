@@ -9,6 +9,26 @@ header.page-header h2 {
     font-weight: normal;
 }
 
+header.page-header img.biglogo {
+    display: inline;
+}
+
+header.page-header img.smalllogo {
+    display: none;
+}
+
+@media (max-width: 800px) {
+    header.page-header {
+        height: auto;
+    }
+    header.page-header img.biglogo {
+        display: none;
+    }
+    header.page-header img.smalllogo {
+        display: inline;
+    }
+}
+
 .btn {
     padding: 0.75rem 1rem;
     display: inline-block;
