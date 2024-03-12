@@ -2,8 +2,9 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Septimia Zenobia"
+author = "JuliaLangJa Team"
 mintoclevel = 2
+discord_invite_link = "https://discord.gg/4yvfmVMjHW"
 
 # uncomment and adjust the following line if the expected base URL of your website is something like [www.thebase.com/yourproject/]
 # please do read the docs on deployment to avoid common issues: https://franklinjl.org/workflow/deploy/#deploying_your_website
@@ -16,10 +17,10 @@ mintoclevel = 2
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = true
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+generate_rss = false
+website_title = "JuliaLangJa Discord"
+website_descr = "The entrance page of JuliaLangJa community Discord server"
+website_url   = "https://julialangja.github.io/"
 +++
 
 <!--
