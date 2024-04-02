@@ -1,7 +1,7 @@
 @def title = "JuliaLangJa Discord"
 @def hasmath = false
 
-**JuliaLangJa は Julia プログラマー同士の交流を目的とした Discord サーバー**です。
+**JuliaLangJa はプログラマー同士の交流を目的とした Julia 言語に関する日本語コミュニティ**で Discord を中心に活動しています。
 
 参加者の技術レベルに関わらず、質問・相談・情報交換を気軽にできる場を目指しています。
 
@@ -41,5 +41,5 @@ JuliaLangJa は**世代や所属組織の垣根を超えて、Julia に興味を
 
 # 自己紹介をしましょう
 
-- `#general` チャンネルで自己紹介をしましょう
+- `#introduction` チャンネルで自己紹介をしましょう
 - プロフィール画像を設定すると覚えてもらいやすくなって便利です
